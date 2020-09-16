@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <Row>
+   <Name>南小媛</Name>
+   <Level>12</Level>
+   <Description>《虚拟偶像》新兴偶像</Description>
+   <Skill>跳舞</Skill>
+   <Time>2019出道</Time>
+  </Row>
+  <Row>
+   <Name>初音未来</Name>
+   <Level>20</Level>
+   <Description>《日本声优》女主角</Description>
+   <Skill>唱歌</Skill>
+   <Time>2007出道</Time>
+  </Row>
+  <Row>
+   <Name>末末酱</Name>
+   <Level>18</Level>
+   <Description>《MOMO》</Description>
+   <Skill>唱歌、搞笑</Skill>
+   <Time>2018出道</Time>
+  </Row>
+  <Row>
+   <Name>一蝉小和尚</Name>
+   <Level>24</Level>
+   <Description>《一蝉小和尚》配角</Description>
+   <Skill>搞笑、心灵鸡汤</Skill>
+   <Time>2019出道</Time>
+  </Row>
+</Table>
